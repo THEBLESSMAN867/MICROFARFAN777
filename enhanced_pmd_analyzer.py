@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# coding=utf-8
 """
 Enhanced PMD Analyzer - Consolidated Static Code Analysis Tool
 

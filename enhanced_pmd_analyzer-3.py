@@ -1,5 +1,5 @@
-            flow_analysis["project_flows"].append({
-                "project_id": project["project_id"],
+# coding=utf-8
+"project_id": project["project_id"],
                 "project_name": project["project_name"],
                 "activity_count": len(project_activities),
                 "total_duration": project_activities["duration_days"].sum() if not project_activities.empty else 0,
